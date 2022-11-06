@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.com/fyl080801/egg-vite-vue3.svg?branch=master)](https://travis-ci.com/fyl080801/egg-vite-vue3)
 
+在文章
+[1:eggjs + vite + vue3 前端开发整体架构方案](https://juejin.cn/post/6935077221690245128)
+[2:Eggjs笔记：接入微信支付相关流程与演示](https://blog.csdn.net/Tyro_java/article/details/106531483)
+和[代码1](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Ffyl080801%2Fegg-vite-vue3)的基础上整合微信微信
+
 使用 `Eggjs` `Vite` `Vue3` 搭建的示例项目
 
 ## 快速上手
